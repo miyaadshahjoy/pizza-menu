@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.9274c86f.css",
-    "main.js": "/static/js/main.ad4fdeec.js",
-    "index.html": "/index.html",
-    "main.9274c86f.css.map": "/static/css/main.9274c86f.css.map",
-    "main.ad4fdeec.js.map": "/static/js/main.ad4fdeec.js.map"
+    "main.css": "/pizza-menu/static/css/main.9274c86f.css",
+    "main.js": "/pizza-menu/static/js/main.ad4fdeec.js",
+    "index.html": "/pizza-menu/index.html",
+    "main.9274c86f.css.map": "/pizza-menu/static/css/main.9274c86f.css.map",
+    "main.ad4fdeec.js.map": "/pizza-menu/static/js/main.ad4fdeec.js.map"
   },
   "entrypoints": [
     "static/css/main.9274c86f.css",
